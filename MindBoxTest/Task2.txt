@@ -1,0 +1,15 @@
+﻿Решение по задаче 2
+
+WITH summary AS (
+    SELECT s.productid, 
+           s.salesid,  
+           s.customerid, 
+		   s.datetime,
+           ROW_NUMBER() OVER(PARTITION BY s.customerid 
+                                 ORDER BY s.datetime, s.salesid) AS rk
+      FROM Sales s)
+
+select s.productid, count(s.customerid) 
+  from summary s
+ where s.rk = 1
+ group by s.productid
