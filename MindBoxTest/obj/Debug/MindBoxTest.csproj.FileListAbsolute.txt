@@ -1,0 +1,7 @@
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\bin\Debug\MindBoxTest.dll
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\bin\Debug\MindBoxTest.pdb
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\obj\Debug\MindBoxTest.csprojResolveAssemblyReference.cache
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\obj\Debug\MindBoxTest.dll
+C:\Users\d-kazakov\Source\MindBoxTest\MindBoxTest\obj\Debug\MindBoxTest.pdb
